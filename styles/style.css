@@ -1,0 +1,146 @@
+body {
+  font-family: "Manrope", sans-serif;
+  background-color: #f5f5f5;
+  width: 100%;
+}
+
+.container,
+.projects,
+.information-services {
+  margin: 0 auto;
+  width: 1150px;
+}
+
+.title {
+  margin-bottom: 30px;
+  line-height: 60px;
+  width: 956px;
+  letter-spacing: -1.8px;
+  font-size: 60px;
+}
+
+.interior,
+.description-studio {
+  margin-bottom: 150px;
+}
+
+.interior-for-developer-description {
+  position: relative;
+  width: 1150px;
+  height: 500px;
+  background-image: url(../recources/interior-for-developer-description.png);
+}
+
+.description-command__text {
+  position: absolute;
+  top: 379px;
+  left: 40px;
+  width: 430px;
+  letter-spacing: -0.6px;
+  font-size: 20px;
+  line-height: normal;
+  color: #fff;
+}
+
+.studio__title {
+  margin-bottom: 30px;
+  line-height: 25px;
+  font-size: 18px;
+  line-height: normal;
+}
+
+.description-studio__text {
+  margin-bottom: 30px;
+  width: 1048px;
+  line-height: normal;
+  font-size: 40px;
+}
+
+.services__btn {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 20px 40px;
+  width: 255px;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ad1818;
+  color: white;
+}
+
+.projects__title {
+  margin-bottom: 30px;
+  line-height: 25px;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.project {
+  margin-bottom: 180px;
+  width: 1150px;
+  height: 450px;
+}
+
+.project__title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 41px;
+  font-size: 30px;
+}
+
+.project__link {
+  text-decoration: none;
+  line-height: 27px;
+  font-size: 20px;
+  color: #ad1818;
+}
+
+.all-projects__btn {
+  margin-bottom: 150px;
+  display: block;
+  width: 100%;
+  padding-top: 56px;
+  padding-bottom: 56px;
+  border: 1px solid #ad1818;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 41px;
+  font-size: 30px;
+  color: #ad1818;
+  text-decoration: none;
+}
+
+.all-projects__btn:hover {
+  background-color: #ad1818;
+  color: #fff;
+}
+
+.serivces__cection {
+  width: 100%;
+  height: 1844px;
+  background-color: #000;
+}
+
+.services__title {
+  margin-bottom: 34px;
+  padding-top: 151px;
+  line-height: 25px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.service {
+  margin-bottom: 60px;
+}
+
+.service__title {
+  margin-top: 15px;
+  line-height: 41px;
+  font-size: 30px;
+  color: #fff;
+}
+
+.service-last {
+  margin-bottom: 0;
+}
